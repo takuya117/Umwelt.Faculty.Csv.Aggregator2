@@ -5,6 +5,7 @@
     <TargetFramework>net5.0</TargetFramework>
     <AssemblyName>entry</AssemblyName>
     <Nullable>enable</Nullable>
+    <UserSecretsId>1ccfe463-a597-4627-a464-e7dff07dd28d</UserSecretsId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
